@@ -1,0 +1,16 @@
+div {
+  position: relative;
+}
+.red {
+  color: red;
+  text-align: center;
+}
+.title {
+  margin: 0 auto;
+  width: 50%;
+}
+
+img {
+  width: 200px;
+  border-radius: 20px;
+}
